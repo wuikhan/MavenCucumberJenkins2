@@ -23,6 +23,7 @@ public class smokeTest {
 	@When("^I enter valid username and password$")
 	public void i_enter_valid_username_and_password()  {
 		System.out.println("Chrome browser is open");
+		System.out.println("Chrome browser is open");
 	}
 
 	@Then("^user should be able to login successfully$")
