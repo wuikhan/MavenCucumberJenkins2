@@ -48,7 +48,7 @@
 				<version>2.18.1</version>
 				<configuration>
 					<includes>
-						<exclude>**/*RunnerNew.java</exclude>
+						<exclude>src/test/java/runner/TestSmokeTest.java</exclude>
 					</includes>
 				</configuration>
 			</plugin>
