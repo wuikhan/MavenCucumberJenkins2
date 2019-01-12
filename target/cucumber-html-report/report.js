@@ -44,28 +44,28 @@ formatter.match({
   "location": "smokeTest.open_Chrome_and_start_application()"
 });
 formatter.result({
-  "duration": 70944429,
+  "duration": 106248293,
   "status": "passed"
 });
 formatter.match({
   "location": "smokeTest.i_enter_valid_username_and_password()"
 });
 formatter.result({
-  "duration": 32828,
+  "duration": 162966,
   "status": "passed"
 });
 formatter.match({
   "location": "smokeTest.user_should_be_able_to_login_successfully()"
 });
 formatter.result({
-  "duration": 53641,
+  "duration": 59575,
   "status": "passed"
 });
 formatter.match({
   "location": "smokeTest.application_should_be_closed()"
 });
 formatter.result({
-  "duration": 47277,
+  "duration": 60324,
   "status": "passed"
 });
 formatter.scenario({
@@ -106,28 +106,28 @@ formatter.match({
   "location": "smokeTest.open_Chrome_and_start_application()"
 });
 formatter.result({
-  "duration": 44318,
+  "duration": 55622,
   "status": "passed"
 });
 formatter.match({
   "location": "smokeTest.i_enter_valid_username_and_password()"
 });
 formatter.result({
-  "duration": 26819,
+  "duration": 78102,
   "status": "passed"
 });
 formatter.match({
   "location": "smokeTest.user_should_be_able_to_login_successfully()"
 });
 formatter.result({
-  "duration": 26051,
+  "duration": 59930,
   "status": "passed"
 });
 formatter.match({
   "location": "smokeTest.application_should_be_closed()"
 });
 formatter.result({
-  "duration": 28003,
+  "duration": 71136,
   "status": "passed"
 });
 });
